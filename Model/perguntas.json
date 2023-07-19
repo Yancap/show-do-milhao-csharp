@@ -1,0 +1,302 @@
+[
+  {
+    "ask": "Em qual esporte é realizada a jogada chamada 'strike'",
+    "alternatives": {
+      "a": "Futebol",
+      "b": "Basquete",
+      "c": "Beisebol",
+      "d": "Boliche"
+    },
+    "reply": "d"
+  },
+  {
+    "ask": "Qual cantor fez muito sucesso com a música ''Rodo do cotidiano''?",
+    "alternatives": {
+      "a": "O Rappa",
+      "b": "Renato Russo",
+      "c": "Roberto Carlos",
+      "d": "Gilberto Gil"
+    },
+    "reply": "a"
+  },
+  {
+    "ask": "Qual a capital da Alemanha?",
+    "alternatives": {
+      "a": "Viena",
+      "b": "Bruxelas",
+      "c": "Munich",
+      "d": "Berlim"
+    },
+    "reply": "d"
+  },
+  {
+    "ask": "Qual revolução teve seu início após a Queda da Bastilha?",
+    "alternatives": {
+      "a": "Revolução Industrial",
+      "b": "Revolução Francesa",
+      "c": "Revolução Socialista Russa",
+      "d": "Revolução Gloriosa Inglesa"
+    },
+    "reply": "b"
+  },
+  {
+    "ask": "Qual fruto é conhecido no Norte e Nordeste como jerimum?",
+    "alternatives": {
+      "a": "Caju",
+      "b": "Chuchu",
+      "c": "Abóbora",
+      "d": "Coco"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "Qual é o nome da lei que protege a mulher da violência doméstica?",
+    "alternatives": {
+      "a": "Lei Maria Dolores",
+      "b": "Lei Antonieta",
+      "c": "Lei Maria da Penha",
+      "d": "Lei Maria da Carmo"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "Qual bicho transmite Doença de Chagas?",
+    "alternatives": {
+      "a": "Abelha",
+      "b": "Barbeiro",
+      "c": "Barata",
+      "d": "Pulga"
+    },
+    "reply": "b"
+  },
+  {
+    "ask": "Qual é o nome dado ao estado da água em forma de gelo?",
+    "alternatives": {
+      "a": "Sólido",
+      "b": "Gasoso",
+      "c": "Plasma",
+      "d": "Líquido"
+    },
+    "reply": "a"
+  },
+  {
+    "ask": "Quantas folhas de papel formam uma resma?",
+    "alternatives": {
+      "a": "500 folhas",
+      "b": "350 folha",
+      "c": "400 folhas",
+      "d": "250 folhas"
+    },
+    "reply": "a"
+  },
+  {
+    "ask": "Qual dessas novelas não teve Fernanda Montenegro em seu elenco?",
+    "alternatives": {
+      "a": "Passione",
+      "b": "Doce de mãe",
+      "c": "O outro lado do paraíso",
+      "d": "Avenida Brasil"
+    },
+    "reply": "d"
+  },
+  {
+    "ask": "Quem é a namorada do Mickey?",
+    "alternatives": {
+      "a": "Margarida",
+      "b": "Minnie",
+      "c": "Jerry",
+      "d": "Olivia Palito"
+    },
+    "reply": "b"
+  },
+  {
+    "ask": "Qual é o personagem do folclore brasileiro que tem uma perna só?",
+    "alternatives": {
+      "a": "Saci-Pererê",
+      "b": "Cuca",
+      "c": "Negrinho do Pastoreio",
+      "d": "Boitatá"
+    },
+    "reply": "a"
+  },
+  {
+    "ask": "O adjetivo 'venoso' está relacionado a:",
+    "alternatives": {
+      "a": "vela",
+      "b": "vento",
+      "c": "veneno",
+      "d": "veia"
+    },
+    "reply": "d"
+  },
+  {
+    "ask": "Quem é o patrono do exército brasileiro?",
+    "alternatives": {
+      "a": "Marechal Deodoro",
+      "b": "Barão de Mauá",
+      "c": "Duque de Caxias",
+      "d": "Marquês de Pombal"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "Quando é comemorado o dia da independência do Brasil?",
+    "alternatives": {
+      "a": "21 de Abril",
+      "b": "14 de Novembro",
+      "c": "7 de Setembro",
+      "d": "22 de Novembro"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "A compensação por perda é chamada de ...",
+    "alternatives": {
+      "a": "Déficit",
+      "b": "Indenização",
+      "c": "Indexação",
+      "d": "Indébito"
+    },
+    "reply": "b"
+  },
+  {
+    "ask": "O estádio do Maracanã fica localizado:",
+    "alternatives": {
+      "a": "No Rio de Janeiro",
+      "b": "Em São Paulo",
+      "c": "Em Porto Alegre ",
+      "d": "Em Belo Horizonte "
+    },
+    "reply": "a"
+  },
+  {
+    "ask": "O que é a Via Láctea?",
+    "alternatives": {
+      "a": "Marca de leite",
+      "b": "Civilização Antiga",
+      "c": "Avenida",
+      "d": "Galaxia"
+    },
+    "reply": "d"
+  },
+  {
+    "ask": "Quem fundou a Microsoft?",
+    "alternatives": {
+      "a": "Akio Morita",
+      "b": "Larry Page",
+      "c": "Bill Gates",
+      "d": "Elon Musk"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "Qual é o nome do cachorro medroso do Salsicha, dos desenhos animados?",
+    "alternatives": {
+      "a": "Floquinho",
+      "b": "Coragem",
+      "c": "Lassie",
+      "d": "Scooby-Doo"
+    },
+    "reply": "d"
+  },
+  {
+    "ask": "Onde fica o centro da indústria cinematográfica nos EUA?",
+    "alternatives": {
+      "a": "Hollywood",
+      "b": "Nova York",
+      "c": "Las Vegas",
+      "d": "New Orleans"
+    },
+    "reply": "a"
+  },
+  {
+    "ask": "Qual era o código da identidade secreta de James Bond?",
+    "alternatives": {
+      "a": "777",
+      "b": "007",
+      "c": "700",
+      "d": "070"
+    },
+    "reply": "b"
+  },
+  {
+    "ask": "Qual destes é considerado o mês das noivas?",
+    "alternatives": {
+      "a": "Junho",
+      "b": "Março",
+      "c": "Maio",
+      "d": "Abril"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "A que letra do nosso alfabeto corresponde a letra grega tau?",
+    "alternatives": {
+      "a": "L",
+      "b": "C",
+      "c": "D",
+      "d": "T"
+    },
+    "reply": "d"
+  },
+  {
+    "ask": "Qual é o nome do Patriarca da Independência do Brasil?",
+    "alternatives": {
+      "a": "Tiradentes",
+      "b": "José Bonifácio",
+      "c": "D Pedro I",
+      "d": "D Pedro II"
+    },
+    "reply": "b"
+  },
+  {
+    "ask": "Qual personagem bíblico dividiu as águas do Mar Vermelho?",
+    "alternatives": {
+      "a": "Moisés",
+      "b": "Kratos",
+      "c": "Josias",
+      "d": "Isaias"
+    },
+    "reply": "a"
+  },
+  {
+    "ask": "Quantas folhas tem um trevo da sorte?",
+    "alternatives": {
+      "a": "3",
+      "b": "4.5",
+      "c": "4",
+      "d": "5"
+    },
+    "reply": "b"
+  },
+  {
+    "ask": "Quem é o segundo maior cestinha da NBA?",
+    "alternatives": {
+      "a": "Lebron James",
+      "b": "Kobe Bryant",
+      "c": "Kareem Abdul-Jabbar",
+      "d": "Michael Jordan"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "O churrasco é considerado uma comida típica de qual estado?",
+    "alternatives": {
+      "a": "Rio de Janeiro",
+      "b": "Santa Catarina",
+      "c": "Rio Grande do Sul",
+      "d": "Paraná"
+    },
+    "reply": "c"
+  },
+  {
+    "ask": "Qual é a sigla da Organização das Nações Unidas?",
+    "alternatives": {
+      "a": "UNESCO",
+      "b": "OMS",
+      "c": "OTAN",
+      "d": "ONU"
+    },
+    "reply": "d"
+  }
+]
